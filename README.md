@@ -7,3 +7,5 @@ This tool generates answers to these questions helping the Animal Police Departe
 ## How to use?
 Just open index.html and click on the "Generate Report" button at the bottom of the page. If you want to generate another report just click on the button again.
 Enjoy :)
+
+Live: https://petsek.github.io/14mixedMessages/
